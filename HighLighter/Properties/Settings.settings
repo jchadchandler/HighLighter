@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LinkViewer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="InitalText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+Hi,
+
+This is a small application to demonstrate the displaying of text in a highlighted form as it might be seen on social media such as Instagram.
+
+In fact, the hashtags and the usernames that are entered here are "live" and can be used to navigate to an actual instagram hashtag. For example, some of the more popular hashtags are:
+
+#cute 
+#tbt
+#follow.
+
+In addition to hashtags, instagram user pages can be accessed through the user link, such as: @cszart, or @dubsteppickles.
+
+Finally, email addresses, like admissions@zooatlanta.org, are also recognized; as well, as normal http links (http://www.google.com).
+
+Thank you,
+
+Chad Chandler ( chad.chandler@outlook.com )
+</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
